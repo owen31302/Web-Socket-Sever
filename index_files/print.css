@@ -1,0 +1,303 @@
+nav,
+a.seal,
+footer,
+form,
+.breadcrumb,
+.lw_paginate,
+.siteheadersearchandtoggles,
+.sitefooter,
+.video.module,
+.person-spotlight.module.two-column .person-spotlight-portrait,
+.person-spotlight.module.two-column .person-spotlight-overlay,
+.prevToolsCont,
+ul.pagination,
+.reopen {
+  display: none !important;
+}
+
+.container {
+  width:100%;
+}
+
+.container .col-sm-8, .can-we-boxes .col-xs-4 {
+  width:100%;
+}
+
+.container .col-sm-4, .container .col-md-6 {
+  width:50%;
+}
+
+a[href^="#"]:after,
+.lw_item_thumb a[href]:after,
+.lw_widget_results .media-heading a:first-child[href]:after,
+.media-list a.thumbnail[href]:after,
+div.social a[href]:after,
+header .wordmarks a[href]:after,
+header a.wordmarks[href]:after
+{
+  display: none;
+}
+
+a[href^="/"]:after {
+  content: " (https://www.scu.edu" attr(href) ")";
+}
+
+a[href^="http://"]:after, a[href^="https://"]:after {
+  content: " (" attr(href) ")";
+}
+
+a {
+word-wrap: break-word;
+}
+
+.can-we.module {
+  position: relative;
+  left: -9999px;
+  width:100%;
+  height:auto;
+  background:none;
+  margin:0;
+  padding:0;
+  border:1px solid red;
+}
+
+
+
+.can-we.module.feature .container {
+  position:relative;
+  width:100%;
+  margin:0;
+  padding:0;
+  background:none;
+  float:none;
+  height:auto;
+}
+
+.can-we.module.feature .can-we-body {
+  height:auto;
+  max-height:none;
+  min-height:0;
+}
+
+.can-we.module.feature .can-we-body .can-we-headline {
+  position: relative;
+  left: 9999px;
+}
+
+.can-we.module.feature .can-we-body .can-we-boxes {
+  width:100%;
+  position: relative;
+  left: 9999px;
+  margin:0;
+  padding:0;
+  background:none;
+  float:none;
+}
+
+.can-we.module.feature .can-we-body .can-we-boxes .col-xs-4 {
+  margin:0;
+  padding:0;
+  background:none;
+  position:relative;
+}
+
+.can-we.module.feature .can-we-body .can-we-box {
+  position:relative;
+  margin:0;
+  padding:0;
+  background:none;
+  height:auto;
+  max-height:none;
+  min-height:150px;
+}
+
+.can-we.module.feature .can-we-body .can-we-box .can-we-credit {
+  position:relative;
+  max-width:100%;
+  margin-top:10px;
+}
+
+.can-we.module.feature .can-we-body .can-we-box .can-we-photo {
+  position:relative;
+  float:right;
+  margin: 0 0 10px 10px;
+}
+
+.can-we.module a[href]:after {
+  font-family:sans-serif;
+  font-size:12px;
+  text-transform:normal;
+  font-weight:normal;
+}
+
+header {
+  position: relative;
+  left: -9999px;
+}
+
+header .wordmarks {
+  position: relative;
+  left: 9999px;
+  margin:0;
+  padding:0;
+}
+
+.hero.module .container, .hero.module .hero-body, .hero.module.landing .hero-body .strip  {
+  min-height:inherit;
+  height:inherit;
+}
+
+.hero.module .container > h1, .hero.module.landing .container>h1 {
+  position:relative;
+  color:#000;
+}
+
+.link-button.red, .link-button.white, .link-button.stroked, link-button.maroon {
+  display:block;
+  background-color:#fff;
+  color:#000 !important;
+  font-size:inherit;
+  font-family:inherit;
+  border:none;
+  outline:none;
+  padding:0;
+  text-align:left;
+}
+
+.link-button:before,
+.link-button:after {
+  border:none;
+}
+
+.page-title {
+  margin-bottom:20px;
+}
+
+.panel .collapse {
+  display:block;
+}
+
+.person-spotlight.module.two-column {
+  padding:inherit;
+}
+
+.person-spotlight.module.two-column.left-aligned .person-spotlight-body {
+  position:relative;
+  margin:20px 0;
+}
+
+.siteheader {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.site-header.uses-core-navigation+.subheader.module {
+  margin:0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
